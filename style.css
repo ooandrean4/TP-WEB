@@ -1,0 +1,160 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.jumbotron img{
+    width: 200px;
+    border: 5px solid black;
+    
+}
+.jumbotron p{
+    font-size: 22px;
+}
+.jumbotron{
+    margin-bottom: 0px;
+   background-color: #ccd4e2;
+}
+ hr{
+    width: 250px;
+    border: 1px solid white;
+}
+.about{
+    background-color: black;
+    margin-bottom: 0px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+.about h2{
+    color:white;
+}
+.box{
+    background-color:black;
+    padding-top: 20px;
+}
+.box h2{
+    color: white;
+}
+.box-gambar{
+    width: 40%;
+    min-height: 300px;
+    border: 1px solid;
+    margin: 5%;
+    float:left; 
+}
+.box-gambar img{
+    width: 100%;
+    height: 100%;
+}
+.container2{
+    padding-top: 20px;
+    background:url('img.jpg');
+    
+}
+.navbar{
+    background-color: black;
+    padding-right: 25px;
+}
+
+.collapse{
+    color: #ccd4e2;
+}
+.home{
+    background: url(1.jpg) no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-size: cover;
+}
+
+.landing-text{
+    color:#ccd4e2;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.landing-text h1{
+    font-size: 500%;
+    font-weight: 700;
+}
+.landing-text h3{
+    font-size: 200%;
+}
+
+.nav-item{
+    color: aqua;
+}
+.About{
+    background-color: #ccd4e2;
+    padding-top:20px;
+    padding-bottom: 50px;
+}
+.About hr{
+    width: 250px;
+    border: 1px solid black;
+}
+.kiri{
+    padding-top: 20px;
+    text-align: center;
+}
+.kiri img{
+    width: 150px;
+    
+}
+.tim h2{
+    color: white;
+}
+.tim{ 
+    padding-top: 20px;
+    background-color: black;
+}
+.anggota{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.anggota img{
+   width:  200px;
+}
+.andre{
+    text-align: center;
+    background-color: white;
+}
+.andre p{
+    text-align: left;
+}
+.imag{
+    text-align: center;
+}
+.tittle{
+    background-color: #ccd4e2;
+    color: black;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0;
+    border-bottom-right-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+.anggota hr{
+    width:auto;
+    margin: 0;
+    border: solid 1px   #ccd4e2;
+}
+.anggota p{
+    color: #ccd4e2;
+    font-size:100%;
+}
+.anggota img{
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+    
+}
+.tim{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.hello{
+    background-color: black;
+    color: black;
+}
